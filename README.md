@@ -12,7 +12,7 @@
 <a href="https://fb.com/rexdaivid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rexdaivid" height="30" width="40" /></a>
 </p>
 
-## Spotify
+## Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wvaq708823x6t9z4p6pa7fh4m&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=wvaq708823x6t9z4p6pa7fh4m&redirect=true)
 
 ## Languages and Tools:
