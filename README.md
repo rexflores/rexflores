@@ -5,12 +5,6 @@
 
 - 🌱 I’m currently learning **Network Design, Mobile App Development, Database Management Systems, and IoT Projects**
 
-
-## Connect with me:
-<p align="left">
-<a href="https://fb.com/rexdaivid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rexdaivid" height="30" width="40" /></a>
-</p>
-
 ## Spotify Playing:
 [![Nostalgia](https://img.shields.io/badge/Nostalgia%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2TeVPkyba77luOVkRZ8KMY?si=f037853241c64973) [![Ethereal](https://img.shields.io/badge/Ethereal%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3ZcQuXJZ5DAAs6ZvHSsdGf?si=04db20dea19d42ea) [![OPM Classics](https://img.shields.io/badge/OPM%20Classics-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4ugCYw2otudt6qxUrJBSjp?si=5d2dd1ccc02f4249) [![Slow Rock](https://img.shields.io/badge/Slow%20Rock-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68V0teXpNodVUqidBcqyB4?si=88421015dd794db4) [![Boybands](https://img.shields.io/badge/Boybands%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/21MC0jYG5vdF70neNkMRlt?si=2d0fc894eff74d93) 
 
