@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rex Flores</h1>
-<h3 align="center">A Computer Engineering Technology Student from TUP-Manila</h3>
+<h3 align="center">A Computer Engineering Technology Student at TUP-Manila</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexflores&label=Profile%20views&color=0e75b6&style=flat" alt="rexflores" /> </p>
 
 - 🌱 I’m currently learning **Network Design, Mobile App Development, Database Management Systems, and IoT Projects**
 
-- 📫 How to reach me **rexdaivid.flores@tup.edu.ph**
 
 ## Connect with me:
 <p align="left">
