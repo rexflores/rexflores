@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rex Flores!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineering+Student;Passionate+Learner;Mobile+App+Developer;Web+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineering+Student;Passionate+Learner;Mobile+App+Developer;Web+Developer;Open-Source+Enthusiast)](https://git.io/typing-svg)
 
 Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving into the vast world of technology. Whether it's building innovative projects, solving complex problems, or collaborating on open-source initiatives, I’m always excited to contribute and grow.
 
