@@ -47,7 +47,7 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 </details>
 
 <details>
-    <summary>&#9889 <b>🔝 Top Contributed Repo</b></summary><br/>
+    <summary>&#9889 <b>⚡ Profile Views</b></summary><br/>
     
 [![](https://visitcount.itsvg.in/api?id=rexflores&icon=5&color=0)](https://visitcount.itsvg.in)
 </details>
