@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rex Flores!
+# 👋 Hi, I'm Rex Flores!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=600&lines=Computer+Engineering+Technology+Student;Passionate+Learner;Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
