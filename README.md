@@ -26,6 +26,12 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,arduino,azure,c,cs,cpp,eclipse,docker,figma,firebase,flutter,git,java,kotlin,linux,mysql,ps,php,py,vercel,vim,vscode,wordpress)](https://skillicons.dev)
 
+## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rexflores) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rexflores) 
+
+---
+
 <details>
     <summary> <b>🏆 GitHub Trophies</b></summary><br/>
     
@@ -51,8 +57,3 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
     
 [![](https://visitcount.itsvg.in/api?id=rexflores&icon=5&color=0)](https://visitcount.itsvg.in)
 </details>
-
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rexflores) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rexflores) 
-
