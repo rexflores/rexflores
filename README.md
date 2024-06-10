@@ -46,12 +46,10 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 <details>
     <summary> <b>📊 GitHub Stats</b></summary><br/>
     
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=rexflores&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="streak graph" /> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexflores&theme=gruvbox&hide_border=false" height="170" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexflores&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="languages graph" /> <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rexflores&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rexflores&theme=gruvbox&hide_border=false) <br/>
+![](https://github-readme-stats.vercel.app/api?username=rexflores&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rexflores&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=rexflores&radius=16&theme=gruvbox&area=true&order=5")
 </details>
 
 <details>
@@ -59,5 +57,4 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 
 ![](https://github-contributor-stats.vercel.app/api?username=rexflores&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 </details>
-
 
