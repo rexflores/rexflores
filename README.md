@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Rex Flores!
+# 👋 Hi, I'm Rex Flores! [![](https://visitcount.itsvg.in/api?id=rexflores&icon=5&color=2)](https://visitcount.itsvg.in) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rexdaivid) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.daivid) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rdaivid_f) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rex-daivid-flores-59b829240) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17325675) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineering+Student;Passionate+Learner;Mobile+App+Developer;Web+Developer;Open-Source+Enthusiast)](https://git.io/typing-svg)
 
@@ -11,10 +16,6 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 - 🤝 Collaborative Contributor: Enjoy engaging with fellow developers and contributing to the tech community.
 - ⚙️ Tech Enthusiast: Excited about the latest trends in technology and development.
 - 🌱 Interests: Network Design, Mobile App Development, Database Management Systems, and Internet of Things
-
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rexdaivid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.daivid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rdaivid_f) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rex-daivid-flores-59b829240) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17325675) 
 
 ## 🎧 Spotify Playing:
 
@@ -55,9 +56,4 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 ![](https://github-contributor-stats.vercel.app/api?username=rexflores&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 </details>
 
-<details>
-    <summary> <b>👁️ Profile Views</b></summary><br/>
-    
-[![](https://visitcount.itsvg.in/api?id=rexflores&icon=5&color=0)](https://visitcount.itsvg.in)
-</details>
 
