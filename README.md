@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rex-daivid-flores-59b829240) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17325675) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineering+Student;Passionate+Learner;Mobile+App+Developer;Web+Developer;Open-Source+Enthusiast)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineering+Student;Passionate+Learner;Mobile+App+Developer;Web+Developer;Open-Source+Enthusiast)
 
 Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving into the vast world of technology. Whether it's building innovative projects, solving complex problems, or collaborating on open-source initiatives, I’m always excited to contribute and grow.
 
@@ -19,11 +19,15 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 
 ## 🎧 Spotify Playing:
 
-[![Nostalgia](https://img.shields.io/badge/Nostalgia%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2TeVPkyba77luOVkRZ8KMY?si=f037853241c64973) [![Ethereal](https://img.shields.io/badge/Ethereal%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3ZcQuXJZ5DAAs6ZvHSsdGf?si=04db20dea19d42ea) [![OPM Classics](https://img.shields.io/badge/OPM%20Classics-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4ugCYw2otudt6qxUrJBSjp?si=5d2dd1ccc02f4249) [![Slow Rock](https://img.shields.io/badge/Slow%20Rock-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68V0teXpNodVUqidBcqyB4?si=88421015dd794db4) [![Boybands](https://img.shields.io/badge/Boybands%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/21MC0jYG5vdF70neNkMRlt?si=2d0fc894eff74d93) 
+[![Nostalgia](https://img.shields.io/badge/Nostalgia%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2TeVPkyba77luOVkRZ8KMY?si=f037853241c64973) 
+[![Ethereal](https://img.shields.io/badge/Ethereal%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3ZcQuXJZ5DAAs6ZvHSsdGf?si=04db20dea19d42ea) 
+[![OPM Classics](https://img.shields.io/badge/OPM%20Classics-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4ugCYw2otudt6qxUrJBSjp?si=5d2dd1ccc02f4249) 
+[![Slow Rock](https://img.shields.io/badge/Slow%20Rock-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68V0teXpNodVUqidBcqyB4?si=88421015dd794db4) 
+[![Boybands](https://img.shields.io/badge/Boybands%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/21MC0jYG5vdF70neNkMRlt?si=2d0fc894eff74d93) 
 
 <div>
     <a href="https://open.spotify.com/user/wvaq708823x6t9z4p6pa7fh4m">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=wvaq708823x6t9z4p6pa7fh4m&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" height="120" alt="spotify-github-profile" /> 
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=wvaq708823x6t9z4p6pa7fh4m&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" height="125" width="500" alt="spotify-github-profile" /> 
     </a>
 </div>
 
