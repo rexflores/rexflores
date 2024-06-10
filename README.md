@@ -35,21 +35,26 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 <details>
     <summary> <b>🏆 GitHub Trophies</b></summary><br/>
     
-![](https://github-profile-trophy.vercel.app/?username=rexflores&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div>
+    <img src="https://github-profile-trophy.vercel.app/?username=rexflores&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"/>
+</div>
 </details>
 
 <details>
     <summary> <b>📊 GitHub Stats</b></summary><br/>
     
-![](https://github-readme-stats.vercel.app/api?username=rexflores&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rexflores&theme=calm_pink&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rexflores&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=rexflores&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="streak graph" /> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexflores&theme=gruvbox&hide_border=false" height="170" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexflores&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="languages graph" /> <br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rexflores&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 </details>
 
 <details>
     <summary> <b>🔝 Top Contributed Repo</b></summary><br/>
 
-![](https://github-contributor-stats.vercel.app/api?username=rexflores&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rexflores&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 </details>
 
 <details>
@@ -57,3 +62,7 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
     
 [![](https://visitcount.itsvg.in/api?id=rexflores&icon=5&color=0)](https://visitcount.itsvg.in)
 </details>
+
+
+<img src="https://raw.githubusercontent.com/rexflores/rexflores/output/snake.svg" alt="Snake animation" />
+
