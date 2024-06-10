@@ -63,6 +63,3 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 [![](https://visitcount.itsvg.in/api?id=rexflores&icon=5&color=0)](https://visitcount.itsvg.in)
 </details>
 
-
-<img src="https://raw.githubusercontent.com/rexflores/rexflores/output/snake.svg" alt="Snake animation" />
-
