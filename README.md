@@ -35,9 +35,7 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 <details>
     <summary> <b>🏆 GitHub Trophies</b></summary><br/>
     
-<div>
-    <img src="https://github-profile-trophy.vercel.app/?username=rexflores&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph"/>
-</div>
+![](https://github-profile-trophy.vercel.app/?username=rexflores&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 </details>
 
 <details>
