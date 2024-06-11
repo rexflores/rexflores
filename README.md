@@ -12,7 +12,7 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 ## 🌟 About Me
 - 🧐 Inquisitive Mind: Always eager to explore new concepts and technologies.
 - 💡 Creative Thinker: Love transforming ideas into reality through code.
-- 🛠️ Problem Solver: Enjoy tackling challenging problems and finding efficient solutions.
+- 🛠️ Problem Solver: Enjoys tackling challenging problems and finding efficient solutions.
 - 🤝 Collaborative Contributor: Enjoy engaging with fellow developers and contributing to the tech community.
 - ⚙️ Tech Enthusiast: Excited about the latest trends in technology and development.
 - 🌱 Interests: Network Design, Mobile App Development, Database Management Systems, and Internet of Things
