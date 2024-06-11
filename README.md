@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rex-daivid-flores-59b829240) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17325675) 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineering+Student;Passionate+Learner;Learning+Mobile+App+Development...;Web+Development...;and+IoT+Projects;Open-Source+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineering+Student;Passionate+Learner;A+developer+in+training;Open-Source+Enthusiast)
 
 Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving into the vast world of technology. Whether it's building innovative projects, solving complex problems, or collaborating on open-source initiatives, I’m always excited to contribute and grow.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 - 🛠️ Problem Solver: Enjoys tackling challenging problems and finding efficient solutions.
 - 🤝 Collaborative Contributor: Enjoy engaging with fellow developers and contributing to the tech community.
 - ⚙️ Tech Enthusiast: Excited about the latest trends in technology and development.
-- 🌱 Interests: Network Design, Mobile App Development, Database Management Systems, and Internet of Things
+- 🌱 Interests: Network Design, Mobile App Development, Web Development, Database Management Systems, and Internet of Things.
 
 ## 🎧 Spotify Playing:
 
@@ -27,9 +27,9 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 
 [![spotify-playing](https://spotify-github-profile.vercel.app/api/view?uid=wvaq708823x6t9z4p6pa7fh4m&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/wvaq708823x6t9z4p6pa7fh4m)
 
-## 💻 Skills & Interests:
+## 💻 Technologies:
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,arduino,azure,c,cs,cpp,eclipse,docker,figma,firebase,flutter,git,java,kotlin,linux,mysql,ps,php,py,vercel,vim,vscode,wordpress)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,arduino,tensorflow,azure,autocad,git,gitlab,heroku,c,cs,cpp,docker,figma,firebase,flutter,git,java,kotlin,linux,mysql,ps,php,py,vercel,vim,vscode,Wordpress)
 
 ## 💰 You can help me by Donating
 
