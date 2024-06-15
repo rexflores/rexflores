@@ -31,7 +31,7 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,arduino,tensorflow,azure,autocad,git,gitlab,heroku,c,cs,cpp,docker,figma,firebase,flutter,git,java,kotlin,linux,mysql,ps,php,py,vercel,vim,vscode,Wordpress)
 
-## 💰 You can help me by Donating
+## 💰 Support me:
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rexflores) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rexflores) 
 
