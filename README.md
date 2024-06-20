@@ -7,7 +7,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineering+Student;Passionate+Learner;A+developer+in+training;Open-Source+Enthusiast)
 
-Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving into the vast world of technology. Whether it's building innovative projects, solving complex problems, or collaborating on open-source initiatives, I’m always excited to learn, contribute, and grow.
+Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving into the vast world of technology. Whether it's building innovative projects, fixing problems, or collaborating on open-source initiatives, I’m always excited to learn, contribute, and grow.
 
 ## 🌟 About Me
 - 🧐 Inquisitive Mind: Always eager to explore new concepts and technologies.
