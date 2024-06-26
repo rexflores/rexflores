@@ -25,7 +25,7 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 [![Slow Rock](https://img.shields.io/badge/Slow%20Rock-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68V0teXpNodVUqidBcqyB4?si=88421015dd794db4) 
 [![Boybands](https://img.shields.io/badge/Boybands%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/21MC0jYG5vdF70neNkMRlt?si=2d0fc894eff74d93) 
 
-[![Spotify](https://spotigit-rexflores-projects.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/wvaq708823x6t9z4p6pa7fh4m)
+[![Spotify](https://spotigit-rexflores-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/wvaq708823x6t9z4p6pa7fh4m)
 
 ## 💻 Technologies:
 
