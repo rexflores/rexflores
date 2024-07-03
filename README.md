@@ -29,13 +29,11 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 
 ## 💻 Technologies:
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,arduino,tensorflow,autocad,git,gitlab,c,cs,cpp,docker,figma,firebase,flutter,git,java,kotlin,linux,mysql,ps,php,py,vercel,vim,vscode,Wordpress)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,ts,androidstudio,arduino,tensorflow,autocad,git,gitlab,c,cs,cpp,docker,figma,firebase,flutter,flask,git,java,linux,mysql,ps,php,py,vercel,vscode,Wordpress)
 
 ## 💰 Support me:
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rexflores) 
-
-![Snake Animation](https://raw.githubusercontent.com/rexflores/rexflores/output/snake.svg)
 
 ---
 
@@ -60,3 +58,4 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 ![](https://github-contributor-stats.vercel.app/api?username=rexflores&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 </details>
 
+![Snake Animation](https://raw.githubusercontent.com/rexflores/rexflores/output/snake.svg)
