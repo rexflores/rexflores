@@ -35,6 +35,8 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rexflores) 
 
+![Snake Animation](https://raw.githubusercontent.com/rexflores/rexflores/output/snake.svg)
+
 ---
 
 <details>
