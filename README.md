@@ -60,7 +60,6 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
 </details>
 
 <details>
