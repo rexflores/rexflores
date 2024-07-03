@@ -55,14 +55,6 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 </details>
 
 <details>
-    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-</details>
-
-<details>
     <summary>:moneybag: <b>Support me</b></summary><br/>
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rexflores)
