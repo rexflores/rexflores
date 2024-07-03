@@ -34,13 +34,13 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 ---
 
 <details>
-    <summary> <b>🏆 GitHub Trophies</b></summary><br/>
+    <summary>:trophy: <b> GitHub Trophies</b></summary><br/>
     
 ![](https://github-profile-trophy.vercel.app/?username=rexflores&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 </details>
 
 <details>
-    <summary> <b>📊 GitHub Stats</b></summary><br/>
+    <summary>:bar_chart: <b>GitHub Stats</b></summary><br/>
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rexflores&theme=gruvbox&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=rexflores&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true) <br/>
@@ -49,13 +49,22 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 </details>
 
 <details>
-    <summary> <b>🔝 Top Contributed Repo</b></summary><br/>
+    <summary>:top: <b>Top Contributed Repo</b></summary><br/>
 
 ![](https://github-contributor-stats.vercel.app/api?username=rexflores&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 </details>
 
 <details>
-    <summary> <b>💰 Support me</b></summary><br/>
+    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+    <summary>:moneybag: <b>Support me</b></summary><br/>
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rexflores)
 </details>
