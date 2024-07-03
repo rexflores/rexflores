@@ -31,10 +31,6 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,ts,androidstudio,arduino,tensorflow,autocad,git,gitlab,c,cs,cpp,figma,firebase,flutter,flask,java,linux,mysql,ps,php,py,vercel,vscode,Wordpress)
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ---
 
 <details>
@@ -61,6 +57,9 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 <details>
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 </details>
 
 <details>
