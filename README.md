@@ -61,9 +61,6 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 <details>
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 </details>
 
 <details>
