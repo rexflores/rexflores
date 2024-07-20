@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rex-daivid-flores-59b829240) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17325675) 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineering+Student;Passionate+Learner;A+developer+in+training;Open-Source+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineering+Student;Passionate+Learner;A+developer+in+training)
 
 Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving into the vast world of technology. Whether it's building innovative projects, fixing complex problems, or collaborating on open-source initiatives, I’m always excited to learn, contribute, and grow.
 
