@@ -29,7 +29,7 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 
 ## 💻 Technologies:
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,ts,androidstudio,arduino,tensorflow,autocad,git,gitlab,c,cs,cpp,figma,firebase,flutter,flask,java,linux,mysql,ps,php,py,vercel,vscode,Wordpress)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,ts,androidstudio,arduino,tensorflow,autocad,git,c,cs,cpp,figma,firebase,flutter,flask,java,linux,mysql,ps,php,py,vercel,vscode,Wordpress)
 
 ---
 
