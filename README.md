@@ -21,9 +21,12 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 
 [![Nostalgia](https://img.shields.io/badge/Nostalgia%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2TeVPkyba77luOVkRZ8KMY?si=f037853241c64973) 
 [![Ethereal](https://img.shields.io/badge/Ethereal%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3ZcQuXJZ5DAAs6ZvHSsdGf?si=04db20dea19d42ea) 
-[![OPM Classics](https://img.shields.io/badge/OPM%20Classics-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4ugCYw2otudt6qxUrJBSjp?si=5d2dd1ccc02f4249) 
 [![Slow Rock](https://img.shields.io/badge/Slow%20Rock-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68V0teXpNodVUqidBcqyB4?si=88421015dd794db4) 
 [![Boybands](https://img.shields.io/badge/Boybands%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/21MC0jYG5vdF70neNkMRlt?si=2d0fc894eff74d93) 
+[![Tunog Kalye](https://img.shields.io/badge/Tunog%20Kalye-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4ugCYw2otudt6qxUrJBSjp?si=5d2dd1ccc02f4249) 
+[![Retro](https://img.shields.io/badge/Retro%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4Ulo5XfxosOfNs6RBWPysa?si=Mn9p_vkESlC_tKdMh-l-bA) 
+[![Pag-asa](https://img.shields.io/badge/Pagasa%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3xZlf0rtMLmc24lBePuBU5?si=q_2tzfsYSBiqH0YiNz1W2Q)
+[![Layag](https://img.shields.io/badge/Layag%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/39A5KEofknxaIbyTBsCx33?si=nDsD0bWGSZO8saIzQDqDMg)
 
 [![Spotify](https://spotigit-rexflores-projects.vercel.app/api/spotify)](https://open.spotify.com/user/wvaq708823x6t9z4p6pa7fh4m)
 
