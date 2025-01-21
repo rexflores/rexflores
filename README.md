@@ -25,7 +25,7 @@ Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving in
 [![Boybands](https://img.shields.io/badge/Boybands%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/21MC0jYG5vdF70neNkMRlt?si=2d0fc894eff74d93) 
 [![Tunog Kalye](https://img.shields.io/badge/Tunog%20Kalye-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4ugCYw2otudt6qxUrJBSjp?si=5d2dd1ccc02f4249) 
 [![Retro](https://img.shields.io/badge/Retro%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4Ulo5XfxosOfNs6RBWPysa?si=Mn9p_vkESlC_tKdMh-l-bA) 
-[![Pag-asa](https://img.shields.io/badge/Pagasa%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3xZlf0rtMLmc24lBePuBU5?si=q_2tzfsYSBiqH0YiNz1W2Q)
+[![Pag-asa](https://img.shields.io/badge/Pag--asa%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3xZlf0rtMLmc24lBePuBU5?si=q_2tzfsYSBiqH0YiNz1W2Q)
 [![Layag](https://img.shields.io/badge/Layag%20-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/39A5KEofknxaIbyTBsCx33?si=nDsD0bWGSZO8saIzQDqDMg)
 
 [![Spotify](https://spotigit-rexflores-projects.vercel.app/api/spotify)](https://open.spotify.com/user/wvaq708823x6t9z4p6pa7fh4m)
