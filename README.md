@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rex Flores! ![](https://visitcount.itsvg.in/api?id=rexflores&icon=5&color=2)
+# 👋 Hi, I'm Rex Flores!
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rexdaivid) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.daivid) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rdaivid_f) 
