@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rexflores) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17325675) 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineer;Developer;Passionate+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=C57644FF&size=24&width=500&lines=Computer+Engineer;Web+Developer;Passionate+Learner)
 
 Welcome to my GitHub corner! I thrive on continuous learning and enjoy diving into the vast world of technology. Whether it's building innovative projects, fixing complex problems, or collaborating on open-source initiatives, I’m always excited to learn, contribute, and grow.
 
